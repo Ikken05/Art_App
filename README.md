@@ -1,6 +1,6 @@
-# This an App that allows artists to share their artworks and help each others out.
+#Art_Community.
 
-A new Flutter project.
+This an App that allows artists to share their artworks and help each others out.
 
 ## Getting Started
 
