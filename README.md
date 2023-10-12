@@ -1,4 +1,4 @@
-# introproject
+# This an App that allows artists to share their artworks and help each others out.
 
 A new Flutter project.
 
