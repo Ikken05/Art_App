@@ -1,4 +1,4 @@
-#Art_Community.
+#Art Community.
 
 This an App that allows artists to share their artworks and help each others out.
 
